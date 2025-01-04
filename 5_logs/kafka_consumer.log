@@ -1,0 +1,313 @@
+2025-01-04 17:20:14,080 - INFO - Starting Kafka Consumer...
+2025-01-04 17:20:14,139 - INFO - Received: {"device_id": "b2173b10-5dff-4c1c-8634-1c7a38bc2d5c", "timestamp": "1978-07-26T01:27:57", "temperature": 26.62, "humidity": 58.45}
+2025-01-04 17:20:14,149 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:14,149 - INFO - Received: {"device_id": "f0775c34-9b51-4c8d-9105-ac1079180f09", "timestamp": "2024-05-04T12:23:31", "temperature": 28.62, "humidity": 51.23}
+2025-01-04 17:20:14,152 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:14,152 - INFO - Received: {"device_id": "82a8cecc-4526-4047-a3c7-5e391db17833", "timestamp": "1975-11-29T06:11:52", "temperature": 25.28, "humidity": 32.59}
+2025-01-04 17:20:14,154 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:14,155 - INFO - Received: {"device_id": "7572a8ff-5f9d-479d-a968-20d84a080d2d", "timestamp": "2006-04-20T08:45:23", "temperature": 23.04, "humidity": 34.49}
+2025-01-04 17:20:14,160 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:14,582 - INFO - Received: {"device_id": "a89e6beb-be10-4b69-a9f4-68ed11c2d7fe", "timestamp": "2022-05-27T06:58:06", "temperature": 24.52, "humidity": 42.39}
+2025-01-04 17:20:14,586 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:16,774 - INFO - Received: {"device_id": "49b7edf6-b438-43bf-884c-c315f1f5ae94", "timestamp": "2022-04-26T07:42:57", "temperature": 27.84, "humidity": 37.72}
+2025-01-04 17:20:16,776 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:18,785 - INFO - Received: {"device_id": "5b919b0d-7578-49ab-a8b3-41b79a3f1344", "timestamp": "1992-01-30T14:31:08", "temperature": 20.58, "humidity": 68.24}
+2025-01-04 17:20:18,788 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:20,806 - INFO - Received: {"device_id": "24a42ade-1f36-4179-8543-0359abfa2c0d", "timestamp": "2020-01-03T05:46:11", "temperature": 24.75, "humidity": 62.14}
+2025-01-04 17:20:20,809 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:22,821 - INFO - Received: {"device_id": "234489e7-8c01-41c3-92aa-d591c15cb394", "timestamp": "2017-06-09T02:38:30", "temperature": 24.39, "humidity": 36.38}
+2025-01-04 17:20:22,823 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:24,924 - INFO - Received: {"device_id": "c8893f95-190e-43b6-8732-e5fae540ad2c", "timestamp": "1984-09-26T16:57:48", "temperature": 26.71, "humidity": 42.86}
+2025-01-04 17:20:25,003 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:26,957 - INFO - Received: {"device_id": "72ca7d49-2214-437a-85ab-8c665c2ce3d7", "timestamp": "1997-09-23T12:07:09", "temperature": 23.19, "humidity": 50.04}
+2025-01-04 17:20:26,960 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:29,275 - INFO - Received: {"device_id": "b8f42484-9526-4b6e-9c0b-266e3cc4f29e", "timestamp": "2000-09-20T19:06:54", "temperature": 24.7, "humidity": 35.95}
+2025-01-04 17:20:29,282 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:31,290 - INFO - Received: {"device_id": "38599f8c-599e-4e92-be6c-42def05d81cc", "timestamp": "2016-07-12T00:03:26", "temperature": 21.66, "humidity": 60.89}
+2025-01-04 17:20:31,292 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:33,300 - INFO - Received: {"device_id": "2534e2cf-6034-4123-ae11-52cea2e0e7ab", "timestamp": "2017-07-06T22:37:40", "temperature": 28.37, "humidity": 69.71}
+2025-01-04 17:20:33,302 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:35,304 - INFO - Received: {"device_id": "44914f9b-2916-4cc7-8c56-b752a70f8c51", "timestamp": "1975-08-29T21:26:09", "temperature": 29.32, "humidity": 51.19}
+2025-01-04 17:20:35,307 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:37,322 - INFO - Received: {"device_id": "f900f8cc-5876-4cb4-8307-0da960e532ba", "timestamp": "1971-03-09T12:44:02", "temperature": 28.36, "humidity": 67.31}
+2025-01-04 17:20:37,326 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:39,484 - INFO - Received: {"device_id": "3aa9a2ec-bd51-46f9-b159-f1891e0e51e3", "timestamp": "1988-11-11T22:06:01", "temperature": 20.73, "humidity": 62.71}
+2025-01-04 17:20:39,487 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:41,487 - INFO - Received: {"device_id": "c8619f44-ab55-402b-a5c2-87c5b082f2fa", "timestamp": "1996-07-19T00:23:46", "temperature": 26.94, "humidity": 44.06}
+2025-01-04 17:20:41,489 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:43,503 - INFO - Received: {"device_id": "306e509f-2550-4ad0-a9f2-a132ae21601d", "timestamp": "2023-03-20T10:06:10", "temperature": 29.67, "humidity": 68.92}
+2025-01-04 17:20:43,506 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:45,511 - INFO - Received: {"device_id": "2a1cee56-7d43-4aaf-ae77-31e78d30aa10", "timestamp": "1999-03-28T05:26:53", "temperature": 29.15, "humidity": 32.48}
+2025-01-04 17:20:45,521 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:47,529 - INFO - Received: {"device_id": "6b1bd078-7120-4185-8b7b-b3859c945fb5", "timestamp": "1986-12-17T10:40:38", "temperature": 24.73, "humidity": 48.3}
+2025-01-04 17:20:47,531 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:49,537 - INFO - Received: {"device_id": "578e7def-1bd1-419d-8b87-b0933c7fd176", "timestamp": "1991-09-21T09:50:51", "temperature": 28.98, "humidity": 37.24}
+2025-01-04 17:20:49,539 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:51,628 - INFO - Received: {"device_id": "d5a3d0c6-d493-434d-91bd-ab52cb9d5ff6", "timestamp": "2003-08-17T06:32:42", "temperature": 20.39, "humidity": 59.47}
+2025-01-04 17:20:51,630 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:53,647 - INFO - Received: {"device_id": "fec56068-ed37-4a42-9f07-35234555c1c1", "timestamp": "1992-06-19T19:56:56", "temperature": 27.95, "humidity": 67.98}
+2025-01-04 17:20:53,649 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:55,656 - INFO - Received: {"device_id": "756caa2a-5d6c-4db5-a040-022d180e7cf3", "timestamp": "1996-12-20T02:06:55", "temperature": 21.21, "humidity": 61.04}
+2025-01-04 17:20:55,665 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:57,676 - INFO - Received: {"device_id": "38ed9969-66a2-4add-b9ca-9dc295d81d53", "timestamp": "2009-01-22T10:45:44", "temperature": 28.59, "humidity": 63.32}
+2025-01-04 17:20:57,679 - INFO - Data stored in MongoDB.
+2025-01-04 17:20:59,693 - INFO - Received: {"device_id": "dec005b9-b5da-499c-833c-01eb2384b013", "timestamp": "1985-12-26T18:22:59", "temperature": 29.04, "humidity": 37.05}
+2025-01-04 17:20:59,696 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:01,707 - INFO - Received: {"device_id": "e48e13e1-7dcf-4207-9511-a1e2a5adbd44", "timestamp": "1988-08-05T10:28:42", "temperature": 23.95, "humidity": 64.22}
+2025-01-04 17:21:01,710 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:03,738 - INFO - Received: {"device_id": "35d09c6b-04db-48fb-a813-3bdc58a2f874", "timestamp": "1986-01-01T09:21:40", "temperature": 26.73, "humidity": 32.42}
+2025-01-04 17:21:03,741 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:05,752 - INFO - Received: {"device_id": "de50b086-7e46-490e-80e7-c40057d337aa", "timestamp": "1983-04-25T23:06:42", "temperature": 26.17, "humidity": 51.01}
+2025-01-04 17:21:05,754 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:07,772 - INFO - Received: {"device_id": "0d7b7a61-e7f7-4f3b-9e2b-46335f698265", "timestamp": "2018-07-22T21:45:42", "temperature": 27.61, "humidity": 66.92}
+2025-01-04 17:21:07,775 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:09,786 - INFO - Received: {"device_id": "b38849ba-2bfb-479b-8e62-40640f58c15a", "timestamp": "1987-04-10T00:53:21", "temperature": 24.04, "humidity": 37.97}
+2025-01-04 17:21:09,789 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:11,800 - INFO - Received: {"device_id": "9eb7a346-e55c-46a1-8e03-a986bc83c6b5", "timestamp": "2012-08-30T23:54:04", "temperature": 22.17, "humidity": 49.48}
+2025-01-04 17:21:11,803 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:13,810 - INFO - Received: {"device_id": "fc7acb31-ea69-430c-8325-c4c3869302a7", "timestamp": "1987-09-23T23:27:21", "temperature": 26.35, "humidity": 38.29}
+2025-01-04 17:21:13,813 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:15,830 - INFO - Received: {"device_id": "a306680a-2313-4054-a5f9-e622bc2047b1", "timestamp": "1979-06-05T10:19:17", "temperature": 26.48, "humidity": 54.55}
+2025-01-04 17:21:15,833 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:17,840 - INFO - Received: {"device_id": "1c4a5aec-2dea-4e58-bfe0-526ddb255fff", "timestamp": "2000-07-18T06:11:32", "temperature": 25.23, "humidity": 55.39}
+2025-01-04 17:21:17,842 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:19,858 - INFO - Received: {"device_id": "c1591f6a-488b-4010-96d7-c2d157340e89", "timestamp": "2001-02-08T10:01:45", "temperature": 22.72, "humidity": 44.24}
+2025-01-04 17:21:19,861 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:21,867 - INFO - Received: {"device_id": "5838c0e7-408d-405a-98aa-b53f47dd2b50", "timestamp": "1994-07-14T12:34:33", "temperature": 29.74, "humidity": 68.73}
+2025-01-04 17:21:21,871 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:23,874 - INFO - Received: {"device_id": "55e4bf44-ba2f-4663-a4d4-aae71753bcbd", "timestamp": "2006-06-14T06:21:35", "temperature": 25.15, "humidity": 50.48}
+2025-01-04 17:21:23,877 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:25,883 - INFO - Received: {"device_id": "a2eee856-3039-4578-97e6-24c856c2e3a3", "timestamp": "1984-12-01T23:23:52", "temperature": 28.51, "humidity": 58.67}
+2025-01-04 17:21:25,885 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:27,899 - INFO - Received: {"device_id": "25bc803c-b4ab-4aeb-a0fc-6081372a902e", "timestamp": "2007-07-26T22:41:58", "temperature": 28.02, "humidity": 69.8}
+2025-01-04 17:21:27,902 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:29,912 - INFO - Received: {"device_id": "f87d04d0-08cd-4bdb-a743-2b3dc1fdbb4c", "timestamp": "1976-03-08T06:58:01", "temperature": 21.14, "humidity": 50.87}
+2025-01-04 17:21:29,917 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:31,921 - INFO - Received: {"device_id": "b587c594-115a-46ac-98e7-d1affe722fa2", "timestamp": "1999-12-06T22:17:20", "temperature": 29.4, "humidity": 64.74}
+2025-01-04 17:21:31,924 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:34,066 - INFO - Received: {"device_id": "f2068ec4-b37b-4d62-bd2f-102173f4d138", "timestamp": "1989-07-21T23:50:37", "temperature": 21.57, "humidity": 64.19}
+2025-01-04 17:21:34,072 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:36,107 - INFO - Received: {"device_id": "be294a46-f58e-44d4-a812-682653295e71", "timestamp": "2004-06-16T00:38:11", "temperature": 24.66, "humidity": 65.96}
+2025-01-04 17:21:36,110 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:38,121 - INFO - Received: {"device_id": "b8c25a79-1149-42fa-b57f-ed11326f7e95", "timestamp": "1972-08-12T10:00:48", "temperature": 21.22, "humidity": 41.85}
+2025-01-04 17:21:38,127 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:40,619 - INFO - Received: {"device_id": "5b87fc2a-9f85-4b17-96db-462f7f5c9909", "timestamp": "2017-09-24T10:00:22", "temperature": 23.3, "humidity": 55.57}
+2025-01-04 17:21:40,621 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:42,779 - INFO - Received: {"device_id": "5eb056e7-6ed9-45b0-8b12-d4b292cb848c", "timestamp": "2024-04-26T10:26:18", "temperature": 21.4, "humidity": 55.32}
+2025-01-04 17:21:42,781 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:44,792 - INFO - Received: {"device_id": "ec6c5677-1c05-4e4f-88a7-ba84ef930cdd", "timestamp": "1981-09-20T21:12:44", "temperature": 28.09, "humidity": 45.96}
+2025-01-04 17:21:44,796 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:47,105 - INFO - Received: {"device_id": "afc6e4a2-d975-4194-a94e-2e2f17a591d0", "timestamp": "2017-04-21T11:39:53", "temperature": 20.23, "humidity": 60.36}
+2025-01-04 17:21:47,108 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:49,211 - INFO - Received: {"device_id": "8edfcc93-ee47-4ede-8a29-a8f06cbb726a", "timestamp": "2007-11-06T23:40:57", "temperature": 21.92, "humidity": 66.04}
+2025-01-04 17:21:49,214 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:51,349 - INFO - Received: {"device_id": "9cbbc50c-81a1-4741-a516-51c2da9adc2b", "timestamp": "1998-03-20T18:36:27", "temperature": 24.65, "humidity": 57.29}
+2025-01-04 17:21:51,351 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:53,361 - INFO - Received: {"device_id": "9670be1f-a0fd-4549-b046-21dedd01a7c6", "timestamp": "1978-12-31T01:41:04", "temperature": 20.3, "humidity": 68.41}
+2025-01-04 17:21:53,363 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:55,382 - INFO - Received: {"device_id": "f652268d-f187-4381-ad90-ba11e5866a49", "timestamp": "1996-06-04T21:00:09", "temperature": 21.86, "humidity": 69.76}
+2025-01-04 17:21:55,385 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:57,392 - INFO - Received: {"device_id": "a610c0f6-282e-4051-8f3f-ba898653f6a1", "timestamp": "1972-05-09T03:45:55", "temperature": 23.35, "humidity": 35.88}
+2025-01-04 17:21:57,395 - INFO - Data stored in MongoDB.
+2025-01-04 17:21:59,410 - INFO - Received: {"device_id": "63065223-4c2e-4c89-b215-366cf1109532", "timestamp": "1971-02-04T14:46:16", "temperature": 28.4, "humidity": 49.84}
+2025-01-04 17:21:59,414 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:01,424 - INFO - Received: {"device_id": "6295edda-c60b-4c9b-9ace-289064979400", "timestamp": "2003-04-26T05:00:25", "temperature": 29.5, "humidity": 45.08}
+2025-01-04 17:22:01,427 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:03,446 - INFO - Received: {"device_id": "cb27d7f1-aeec-43b4-b11e-8847d3523e88", "timestamp": "1992-10-02T00:18:40", "temperature": 22.05, "humidity": 45.07}
+2025-01-04 17:22:03,449 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:05,459 - INFO - Received: {"device_id": "9c1a3265-21e6-410f-bdc3-0697f6ba70c5", "timestamp": "1982-02-24T09:53:00", "temperature": 29.49, "humidity": 30.38}
+2025-01-04 17:22:05,462 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:07,474 - INFO - Received: {"device_id": "f64544a7-16ff-4260-8de8-ea2af4eed6ef", "timestamp": "2004-01-31T04:49:43", "temperature": 22.79, "humidity": 60.69}
+2025-01-04 17:22:07,476 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:09,556 - INFO - Received: {"device_id": "bfc3bed8-223c-4511-982d-675f552ee772", "timestamp": "2012-07-22T15:52:39", "temperature": 24.62, "humidity": 57.28}
+2025-01-04 17:22:09,559 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:11,573 - INFO - Received: {"device_id": "672d59b7-c2c1-4106-bcb2-630d09d0aa4c", "timestamp": "2004-12-02T12:26:37", "temperature": 22.42, "humidity": 66.52}
+2025-01-04 17:22:11,575 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:13,584 - INFO - Received: {"device_id": "d4c1ef46-59fc-4308-b473-37c95c0159f6", "timestamp": "2014-06-15T04:48:49", "temperature": 29.51, "humidity": 37.38}
+2025-01-04 17:22:13,585 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:15,587 - INFO - Received: {"device_id": "3d67ac26-73e1-4230-bed3-2e8499b840c7", "timestamp": "1971-07-20T07:58:56", "temperature": 27.98, "humidity": 69.02}
+2025-01-04 17:22:15,590 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:17,631 - INFO - Received: {"device_id": "57f5f0b6-03c6-4509-b9f3-f0d426d50c70", "timestamp": "1970-10-07T19:40:48", "temperature": 23.29, "humidity": 55.87}
+2025-01-04 17:22:17,635 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:19,641 - INFO - Received: {"device_id": "a9b1fadf-3b0e-455a-8ff6-8e28c3581555", "timestamp": "2014-08-01T11:32:55", "temperature": 26.43, "humidity": 67.14}
+2025-01-04 17:22:19,643 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:21,656 - INFO - Received: {"device_id": "3b2d8fc2-2be8-4b60-a01e-296fb9cd498e", "timestamp": "2006-04-20T09:07:23", "temperature": 26.59, "humidity": 54.87}
+2025-01-04 17:22:21,658 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:23,737 - INFO - Received: {"device_id": "3560888e-2a56-41cf-b04e-925d12b7cfb3", "timestamp": "1989-04-04T13:28:45", "temperature": 25.78, "humidity": 40.03}
+2025-01-04 17:22:23,739 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:25,757 - INFO - Received: {"device_id": "667b060c-530a-4066-8bba-8c6382647789", "timestamp": "1999-10-11T21:21:38", "temperature": 29.72, "humidity": 30.4}
+2025-01-04 17:22:25,759 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:27,767 - INFO - Received: {"device_id": "062b2ec5-af70-4e9a-a704-27cd8612fe18", "timestamp": "2010-10-16T18:38:23", "temperature": 29.78, "humidity": 31.77}
+2025-01-04 17:22:27,769 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:29,787 - INFO - Received: {"device_id": "8d0c37bd-a4f5-44e3-81f3-09ae9c17dcb3", "timestamp": "2018-07-05T12:32:37", "temperature": 24.52, "humidity": 42.92}
+2025-01-04 17:22:29,789 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:31,807 - INFO - Received: {"device_id": "6454e9ff-5994-4cf5-afe8-1872be004d73", "timestamp": "1976-01-01T14:29:53", "temperature": 27.2, "humidity": 62.34}
+2025-01-04 17:22:31,811 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:33,822 - INFO - Received: {"device_id": "3ff525fc-3613-4c6c-a10b-5c3da7328fd4", "timestamp": "2003-10-24T09:39:47", "temperature": 22.97, "humidity": 59.26}
+2025-01-04 17:22:33,825 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:35,834 - INFO - Received: {"device_id": "18fec907-c14a-474f-8a60-33bb659df2f9", "timestamp": "2022-12-27T11:29:34", "temperature": 20.15, "humidity": 63.22}
+2025-01-04 17:22:35,837 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:37,851 - INFO - Received: {"device_id": "81565d85-cced-48a5-854a-aa0c0c7cbd60", "timestamp": "1975-05-19T01:02:12", "temperature": 21.68, "humidity": 37.28}
+2025-01-04 17:22:37,854 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:39,864 - INFO - Received: {"device_id": "6c4a527c-115e-4adf-b0c7-b465224c189b", "timestamp": "1998-12-26T20:54:43", "temperature": 27.94, "humidity": 34.95}
+2025-01-04 17:22:39,866 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:41,873 - INFO - Received: {"device_id": "e7852512-5148-478e-a8d7-a721e3c4793e", "timestamp": "1993-01-01T05:07:39", "temperature": 28.25, "humidity": 64.18}
+2025-01-04 17:22:41,875 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:43,885 - INFO - Received: {"device_id": "d9f98622-211c-4610-8b86-51031ee593d3", "timestamp": "1975-08-08T10:06:54", "temperature": 20.58, "humidity": 32.05}
+2025-01-04 17:22:43,888 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:45,896 - INFO - Received: {"device_id": "25a5bbe8-76d1-40f0-aef4-4f6b48d0534b", "timestamp": "1994-07-16T04:10:25", "temperature": 29.52, "humidity": 58.67}
+2025-01-04 17:22:45,899 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:47,900 - INFO - Received: {"device_id": "50304b00-a851-4430-bdd7-475f6b5eb5f7", "timestamp": "1986-01-02T21:03:14", "temperature": 22.31, "humidity": 31.98}
+2025-01-04 17:22:47,903 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:49,916 - INFO - Received: {"device_id": "c4742fa3-bcb0-475b-a4aa-55af7b4c7f33", "timestamp": "1982-09-18T23:16:18", "temperature": 22.17, "humidity": 60.09}
+2025-01-04 17:22:49,918 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:51,933 - INFO - Received: {"device_id": "3c340861-e9c7-4ab7-bfca-3f07bccc5075", "timestamp": "1973-03-14T09:50:00", "temperature": 26.31, "humidity": 38.61}
+2025-01-04 17:22:51,936 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:53,953 - INFO - Received: {"device_id": "ad34e26b-d890-4d34-a72a-a0b0bc78957b", "timestamp": "1985-08-28T03:40:47", "temperature": 24.89, "humidity": 54.88}
+2025-01-04 17:22:53,958 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:55,971 - INFO - Received: {"device_id": "21a0a475-f21d-4789-8611-b2440dda4779", "timestamp": "2003-12-16T23:39:09", "temperature": 24.21, "humidity": 59.07}
+2025-01-04 17:22:55,975 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:57,978 - INFO - Received: {"device_id": "58e33e91-f12c-461a-a374-accd01ce09be", "timestamp": "2011-11-25T01:39:46", "temperature": 20.0, "humidity": 60.15}
+2025-01-04 17:22:57,981 - INFO - Data stored in MongoDB.
+2025-01-04 17:22:59,995 - INFO - Received: {"device_id": "7e2b5819-ca3a-4428-85ae-f394c11012e2", "timestamp": "1974-06-02T17:00:57", "temperature": 24.62, "humidity": 53.47}
+2025-01-04 17:22:59,998 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:02,010 - INFO - Received: {"device_id": "60d6c253-7014-4663-8b4e-c7428d751bac", "timestamp": "1993-11-30T00:33:31", "temperature": 24.25, "humidity": 30.84}
+2025-01-04 17:23:02,013 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:04,028 - INFO - Received: {"device_id": "6756736d-399b-4bad-80c9-3104f9eda69f", "timestamp": "2002-10-01T14:20:06", "temperature": 26.67, "humidity": 55.58}
+2025-01-04 17:23:04,032 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:06,046 - INFO - Received: {"device_id": "9d27828f-0b49-4b20-ac8a-ef8c5b45168f", "timestamp": "1971-07-01T21:57:50", "temperature": 20.58, "humidity": 69.09}
+2025-01-04 17:23:06,049 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:08,056 - INFO - Received: {"device_id": "8f3f307e-03eb-44ad-af6c-047592460484", "timestamp": "2005-04-28T05:53:11", "temperature": 24.53, "humidity": 50.4}
+2025-01-04 17:23:08,058 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:10,066 - INFO - Received: {"device_id": "5b0cfb48-8310-42b8-afd4-be18e552e9b2", "timestamp": "2020-02-02T08:01:29", "temperature": 20.97, "humidity": 53.95}
+2025-01-04 17:23:10,069 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:12,077 - INFO - Received: {"device_id": "95975b8c-7f35-4628-b916-ec77a5436fbe", "timestamp": "1992-07-17T08:03:58", "temperature": 29.91, "humidity": 60.88}
+2025-01-04 17:23:12,080 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:14,091 - INFO - Received: {"device_id": "c9dc2d23-e0da-483f-a3ab-77a7b3f13a9d", "timestamp": "2013-09-17T00:27:23", "temperature": 26.59, "humidity": 56.8}
+2025-01-04 17:23:14,093 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:16,095 - INFO - Received: {"device_id": "6a78e487-f4ba-406d-86ba-03e72c878331", "timestamp": "1972-05-03T04:31:36", "temperature": 23.3, "humidity": 50.5}
+2025-01-04 17:23:16,098 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:18,099 - INFO - Received: {"device_id": "f9aa04ae-3d56-47e9-b729-e9b6d358b1f0", "timestamp": "1999-07-11T01:50:16", "temperature": 28.23, "humidity": 56.53}
+2025-01-04 17:23:18,101 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:20,107 - INFO - Received: {"device_id": "da6832ea-9e79-4921-8623-1dc84caa5826", "timestamp": "2019-03-01T07:25:47", "temperature": 24.14, "humidity": 63.95}
+2025-01-04 17:23:20,110 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:22,123 - INFO - Received: {"device_id": "b9223b0f-645b-4c42-beb5-e201bb5aaf7a", "timestamp": "1995-10-31T12:08:48", "temperature": 23.17, "humidity": 56.93}
+2025-01-04 17:23:22,126 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:24,144 - INFO - Received: {"device_id": "07e37ebb-adc3-4972-aa35-be43a55f29af", "timestamp": "2022-11-11T04:41:36", "temperature": 27.61, "humidity": 66.28}
+2025-01-04 17:23:24,147 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:26,150 - INFO - Received: {"device_id": "7403297f-17a2-4066-bf35-d0a9ede6be68", "timestamp": "2001-11-30T17:53:59", "temperature": 26.33, "humidity": 38.81}
+2025-01-04 17:23:26,154 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:28,170 - INFO - Received: {"device_id": "b277e4ea-22b9-42cb-b80e-7b1e832406f5", "timestamp": "1996-10-03T21:02:44", "temperature": 21.39, "humidity": 33.77}
+2025-01-04 17:23:28,173 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:30,188 - INFO - Received: {"device_id": "64016cbe-4137-4ffc-ab19-4dc0247c6624", "timestamp": "2022-06-26T04:59:14", "temperature": 29.31, "humidity": 46.24}
+2025-01-04 17:23:30,190 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:32,196 - INFO - Received: {"device_id": "595b4ade-8459-4ee0-92f3-3090ec2d12f3", "timestamp": "1980-01-25T18:21:20", "temperature": 21.59, "humidity": 50.01}
+2025-01-04 17:23:32,198 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:34,207 - INFO - Received: {"device_id": "d386160b-c8da-40e7-ac37-719dc75d6bf6", "timestamp": "1979-10-05T09:13:39", "temperature": 23.45, "humidity": 37.32}
+2025-01-04 17:23:34,210 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:36,215 - INFO - Received: {"device_id": "a2610364-99c1-43d9-9b32-ee87c469139a", "timestamp": "2020-01-30T09:06:30", "temperature": 27.62, "humidity": 54.13}
+2025-01-04 17:23:36,220 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:38,223 - INFO - Received: {"device_id": "e87b051e-d346-4153-85a7-0c9e0d65092c", "timestamp": "2003-04-01T15:32:10", "temperature": 22.12, "humidity": 39.78}
+2025-01-04 17:23:38,226 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:40,228 - INFO - Received: {"device_id": "ed67d0ce-b775-443e-aa7f-2f83d4c2ee60", "timestamp": "1973-04-26T10:54:16", "temperature": 24.5, "humidity": 64.43}
+2025-01-04 17:23:40,230 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:42,249 - INFO - Received: {"device_id": "d23b7c1f-54fe-44ae-938a-84e0c7fffc3d", "timestamp": "1996-04-22T14:37:19", "temperature": 20.82, "humidity": 47.17}
+2025-01-04 17:23:42,253 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:44,256 - INFO - Received: {"device_id": "45252e73-61e8-4d0d-97b0-4f4bd550547b", "timestamp": "2018-01-09T02:38:24", "temperature": 26.57, "humidity": 56.2}
+2025-01-04 17:23:44,259 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:46,270 - INFO - Received: {"device_id": "3625e589-5315-4d80-8206-726760141521", "timestamp": "2002-01-29T10:08:14", "temperature": 21.22, "humidity": 48.36}
+2025-01-04 17:23:46,273 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:48,276 - INFO - Received: {"device_id": "743c2330-9c23-4661-8f74-64eab4cd6f59", "timestamp": "1970-08-17T12:41:41", "temperature": 28.14, "humidity": 44.08}
+2025-01-04 17:23:48,279 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:50,296 - INFO - Received: {"device_id": "1c91f0f8-48f0-403b-8678-9a747470aaf0", "timestamp": "2002-03-07T15:17:05", "temperature": 27.71, "humidity": 40.41}
+2025-01-04 17:23:50,300 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:52,312 - INFO - Received: {"device_id": "8a3b2b82-6d4c-4a0b-9d8f-25322b9a97cd", "timestamp": "2016-09-01T14:39:17", "temperature": 28.53, "humidity": 58.01}
+2025-01-04 17:23:52,316 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:54,319 - INFO - Received: {"device_id": "ccedbe8b-abb0-4e6c-b2ad-ebf7cea69102", "timestamp": "1973-01-14T22:59:02", "temperature": 22.13, "humidity": 47.65}
+2025-01-04 17:23:54,322 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:56,339 - INFO - Received: {"device_id": "ab87c584-d35c-4b40-82a3-53fafa7f22ee", "timestamp": "1998-03-19T15:47:25", "temperature": 24.88, "humidity": 44.85}
+2025-01-04 17:23:56,341 - INFO - Data stored in MongoDB.
+2025-01-04 17:23:58,349 - INFO - Received: {"device_id": "6826bbf9-c74a-484f-b978-1ec332e0ed73", "timestamp": "1971-01-06T07:52:23", "temperature": 23.42, "humidity": 38.22}
+2025-01-04 17:23:58,351 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:00,371 - INFO - Received: {"device_id": "e4de116d-98af-42fb-acb7-7621a3b8c330", "timestamp": "1989-06-22T15:06:50", "temperature": 20.71, "humidity": 31.26}
+2025-01-04 17:24:00,374 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:02,387 - INFO - Received: {"device_id": "34207869-e3d3-4a90-b260-6e2278a2105d", "timestamp": "1974-11-10T08:47:16", "temperature": 29.61, "humidity": 66.14}
+2025-01-04 17:24:02,390 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:04,399 - INFO - Received: {"device_id": "8f204ea6-f4c6-4edb-8236-563f1d365281", "timestamp": "1989-07-19T20:50:42", "temperature": 22.68, "humidity": 37.53}
+2025-01-04 17:24:04,402 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:06,415 - INFO - Received: {"device_id": "a2a2f6f2-0bb2-4db2-95c5-bc3883f32310", "timestamp": "1979-10-27T20:18:55", "temperature": 20.06, "humidity": 64.5}
+2025-01-04 17:24:06,418 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:08,433 - INFO - Received: {"device_id": "8acee81d-a4c5-40b5-a63d-a411bd0daead", "timestamp": "1990-06-12T05:07:32", "temperature": 29.13, "humidity": 33.8}
+2025-01-04 17:24:08,435 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:10,442 - INFO - Received: {"device_id": "b11ba7d1-0503-438a-a1ee-f07e38c7f53d", "timestamp": "1987-02-05T12:44:29", "temperature": 21.13, "humidity": 40.67}
+2025-01-04 17:24:10,447 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:12,457 - INFO - Received: {"device_id": "846aa40a-47fd-410c-a06c-a10c7e5b8580", "timestamp": "1992-05-12T13:46:01", "temperature": 22.2, "humidity": 32.48}
+2025-01-04 17:24:12,459 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:14,476 - INFO - Received: {"device_id": "e8036d23-d894-4d6b-91c1-713f5cd25a02", "timestamp": "2002-07-28T23:24:26", "temperature": 29.95, "humidity": 39.39}
+2025-01-04 17:24:14,480 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:16,492 - INFO - Received: {"device_id": "113af084-c9f3-4e71-96bc-f711bf781190", "timestamp": "1981-11-06T15:50:57", "temperature": 25.64, "humidity": 36.06}
+2025-01-04 17:24:16,496 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:18,516 - INFO - Received: {"device_id": "ea118f0a-84ea-4988-bf22-32bc665a4b74", "timestamp": "2023-04-17T03:10:09", "temperature": 27.34, "humidity": 37.5}
+2025-01-04 17:24:18,520 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:20,533 - INFO - Received: {"device_id": "9ab171db-8558-4e0c-a94f-9754f9ef87c4", "timestamp": "2006-07-17T16:08:15", "temperature": 26.53, "humidity": 49.62}
+2025-01-04 17:24:20,536 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:22,550 - INFO - Received: {"device_id": "a78e1f8d-9825-4143-bbe6-571c6639cbd9", "timestamp": "1988-05-01T17:58:51", "temperature": 28.36, "humidity": 51.3}
+2025-01-04 17:24:22,553 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:24,565 - INFO - Received: {"device_id": "3aa28630-fa72-4526-ae1d-809206fa7f5e", "timestamp": "1983-11-21T11:50:28", "temperature": 28.27, "humidity": 66.97}
+2025-01-04 17:24:24,569 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:26,580 - INFO - Received: {"device_id": "8ec61a57-6863-4c2a-881c-75b574df0ba0", "timestamp": "1974-05-13T08:18:41", "temperature": 26.96, "humidity": 51.82}
+2025-01-04 17:24:26,583 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:28,586 - INFO - Received: {"device_id": "b4410c89-91d4-49a9-8d70-2ea1585c61f1", "timestamp": "1994-09-01T08:14:22", "temperature": 22.46, "humidity": 56.72}
+2025-01-04 17:24:28,589 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:30,607 - INFO - Received: {"device_id": "8f35da59-e194-4fab-8d72-5c5892458f80", "timestamp": "1991-03-10T07:28:42", "temperature": 20.72, "humidity": 31.8}
+2025-01-04 17:24:30,612 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:32,636 - INFO - Received: {"device_id": "8719792f-58f6-41f5-974f-c6c60ec59bf5", "timestamp": "1983-11-02T12:34:08", "temperature": 26.29, "humidity": 54.24}
+2025-01-04 17:24:32,641 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:34,633 - INFO - Received: {"device_id": "2a91c9ad-bb98-471c-9bf8-a93c4c4195ec", "timestamp": "1980-06-18T21:43:57", "temperature": 20.04, "humidity": 58.75}
+2025-01-04 17:24:34,636 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:36,648 - INFO - Received: {"device_id": "33d70937-a4f9-42f2-a2f2-0d6994d5ee25", "timestamp": "2017-03-14T05:51:02", "temperature": 26.17, "humidity": 35.86}
+2025-01-04 17:24:36,651 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:38,665 - INFO - Received: {"device_id": "9e67c8c2-4f3f-4af0-86f9-d6d3a0c4b1e0", "timestamp": "2014-07-13T04:27:42", "temperature": 27.61, "humidity": 67.07}
+2025-01-04 17:24:38,668 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:40,698 - INFO - Received: {"device_id": "ef9124fb-43d6-472c-bf42-237998c293b8", "timestamp": "1991-04-09T15:14:22", "temperature": 25.97, "humidity": 65.03}
+2025-01-04 17:24:40,700 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:42,711 - INFO - Received: {"device_id": "f3f0ab30-e072-49e9-aa83-47962025f67a", "timestamp": "1991-01-15T14:38:13", "temperature": 29.88, "humidity": 52.09}
+2025-01-04 17:24:42,714 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:44,717 - INFO - Received: {"device_id": "79107699-01cd-45f5-a6c4-696f29d91927", "timestamp": "1978-09-03T05:37:41", "temperature": 24.47, "humidity": 60.14}
+2025-01-04 17:24:44,719 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:46,723 - INFO - Received: {"device_id": "d6850207-2ad1-4606-946b-a782089b1ba5", "timestamp": "2001-10-06T16:12:52", "temperature": 29.77, "humidity": 58.03}
+2025-01-04 17:24:46,728 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:48,731 - INFO - Received: {"device_id": "ad305823-4ba8-45c8-9040-7001ed7a7e15", "timestamp": "1996-03-09T08:14:02", "temperature": 27.2, "humidity": 34.5}
+2025-01-04 17:24:48,733 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:50,800 - INFO - Received: {"device_id": "b7c7c85d-9b82-488f-a859-a6909523a4d2", "timestamp": "1983-03-09T13:45:43", "temperature": 23.41, "humidity": 35.81}
+2025-01-04 17:24:50,802 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:52,801 - INFO - Received: {"device_id": "56cbba39-3f85-47d6-903f-e95655675b57", "timestamp": "2012-03-28T01:30:14", "temperature": 20.65, "humidity": 49.27}
+2025-01-04 17:24:52,803 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:54,896 - INFO - Received: {"device_id": "8a6546de-8df0-4515-bfdf-e3af57e7da3a", "timestamp": "2010-05-11T20:53:22", "temperature": 27.21, "humidity": 52.03}
+2025-01-04 17:24:54,915 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:56,887 - INFO - Received: {"device_id": "e9ac6ba5-6255-4687-a5ea-32c529fd01c1", "timestamp": "1996-09-20T04:08:48", "temperature": 25.41, "humidity": 51.94}
+2025-01-04 17:24:56,892 - INFO - Data stored in MongoDB.
+2025-01-04 17:24:59,192 - INFO - Received: {"device_id": "ea277aa4-92d9-4fc6-9b2b-58828653c0af", "timestamp": "1973-12-02T11:51:29", "temperature": 29.02, "humidity": 31.51}
+2025-01-04 17:24:59,195 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:00,996 - INFO - Received: {"device_id": "c0d54fd9-9557-4de4-975c-aef43f2c7032", "timestamp": "2014-06-05T23:57:01", "temperature": 24.06, "humidity": 32.87}
+2025-01-04 17:25:00,998 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:03,312 - INFO - Received: {"device_id": "0f364cbf-69b1-4681-8c2f-c1b58afe51ad", "timestamp": "1991-11-23T18:12:46", "temperature": 29.57, "humidity": 47.47}
+2025-01-04 17:25:03,314 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:05,413 - INFO - Received: {"device_id": "4628bbae-77f3-4d9f-99f7-8030a32b0c25", "timestamp": "2016-01-03T11:26:12", "temperature": 21.43, "humidity": 48.13}
+2025-01-04 17:25:05,415 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:07,538 - INFO - Received: {"device_id": "de787c16-c5ea-4929-b804-20f722394f9a", "timestamp": "1973-05-12T20:56:13", "temperature": 27.89, "humidity": 61.04}
+2025-01-04 17:25:07,541 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:09,885 - INFO - Received: {"device_id": "a65d3350-b7d8-4d2e-b459-7f5418be282b", "timestamp": "1990-11-01T00:20:20", "temperature": 29.98, "humidity": 31.53}
+2025-01-04 17:25:09,890 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:11,949 - INFO - Received: {"device_id": "55806a1c-e378-4cf3-8355-6e64a752ea18", "timestamp": "1979-12-14T05:53:18", "temperature": 25.36, "humidity": 51.25}
+2025-01-04 17:25:11,952 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:13,963 - INFO - Received: {"device_id": "af554232-5b6e-4f66-8ec0-e37b479c4485", "timestamp": "1991-05-25T01:36:25", "temperature": 27.77, "humidity": 37.49}
+2025-01-04 17:25:13,965 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:16,364 - INFO - Received: {"device_id": "65c37f12-91f5-4690-a3b6-0a58b37b62a9", "timestamp": "2008-12-19T06:34:51", "temperature": 24.47, "humidity": 68.71}
+2025-01-04 17:25:16,367 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:18,392 - INFO - Received: {"device_id": "d8c96c8b-486f-4688-85e8-4c927cffc254", "timestamp": "1982-12-12T07:18:12", "temperature": 25.47, "humidity": 52.23}
+2025-01-04 17:25:18,405 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:20,409 - INFO - Received: {"device_id": "84c09049-25e0-4213-85e2-d60106ef33f4", "timestamp": "2022-09-30T21:27:44", "temperature": 27.53, "humidity": 39.41}
+2025-01-04 17:25:20,412 - INFO - Data stored in MongoDB.
+2025-01-04 17:25:33,880 - INFO - Consumer interrupted by user.
+2025-01-04 17:25:33,908 - INFO - Consumer connection closed.
